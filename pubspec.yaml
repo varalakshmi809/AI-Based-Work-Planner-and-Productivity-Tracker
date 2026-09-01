@@ -1,0 +1,42 @@
+name: ai_work_planner
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Firebase
+  firebase_core: ^4.12.1
+  firebase_auth: ^6.5.6
+  cloud_firestore: ^6.0.1
+  cloud_functions: ^6.0.1
+
+  # HTTP & Env
+  http: ^1.1.0
+  flutter_dotenv: ^5.1.0
+
+  # Local Notifications
+  flutter_local_notifications: ^19.4.2
+  timezone: ^0.10.1
+  image_picker: ^1.2.3
+  firebase_storage: ^13.4.6
+  table_calendar: ^3.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/.env

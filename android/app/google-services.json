@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84361764950",
+    "project_id": "ai-work-planner-846fe",
+    "storage_bucket": "ai-work-planner-846fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84361764950:android:3a00de8490b469b6eb9bf7",
+        "android_client_info": {
+          "package_name": "com.example.ai_work_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbYFR1neJpb3D43wtBGJOhjofRy9fBCq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
